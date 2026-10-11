@@ -5,6 +5,12 @@ matter, and validates an existing one for the mistakes that actually
 bite in practice. The "Dockerfile generator" idea (this workspace's
 `dockergen`) for the bare-metal/VPS deploy case instead of containers.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
